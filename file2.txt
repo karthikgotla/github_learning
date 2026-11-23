@@ -1,2 +1,2 @@
-Line 1 changed on main branch
+conflict-test branch
 the file is modified in the subBranchII
