@@ -1,2 +1,2 @@
 hello this is karthik from the local repo(updated).
-the file is modified in the subBranchII
+the file is modified in the Local main_Karthik
