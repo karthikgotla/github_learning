@@ -1,3 +1,4 @@
+New The new code updated from the subBranch2
 The new code updated from the subBranch2
 the file is modified in the Local main_Karthik
 conflict-test branch
